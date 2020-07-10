@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@ant-design/icons": "^4.2.1",
     "@blueprintjs/core": "^3.29.0",
     "@blueprintjs/icons": "^3.19.0",
     "@material-ui/core": "^4.11.0",
@@ -84,6 +85,7 @@
     "electron": "^9.1.0",
     "jest": "^26.1.0",
     "nodemon": "^2.0.4",
+    "react-app-rewired": "^2.1.6",
     "react-docgen-typescript-loader": "^3.7.2",
     "ts-jest": "^26.1.1",
     "tslint": "^6.1.2",
