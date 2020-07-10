@@ -98,3 +98,4 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 1. [Lodash](https://lodash.com/)
 2. [Moment.js](https://momentjs.com/docs/)
 3. [Yup](https://github.com/jquense/yup)
+4. [Prettier](https://prettier.io/)
