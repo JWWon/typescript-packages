@@ -82,6 +82,7 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 ### Compiler
 
 1. [Babel](https://babeljs.io/docs/en/index.html)
+2. [pm2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 
 ### Typescript
 
