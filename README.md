@@ -2,7 +2,7 @@
 
 ## How to use
 
-> Reference: <https://musma.github.io/2019/08/23/nodejs-offline-deployment.html>
+> Reference: <https://classic.yarnpkg.com/blog/2016/11/24/offline-mirror/>, <https://musma.github.io/2019/08/23/nodejs-offline-deployment.html>
 
 Before you download packages on offline,
 
