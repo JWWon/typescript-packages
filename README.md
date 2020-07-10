@@ -2,7 +2,7 @@
 
 ## How to use
 
-> Reference: https://musma.github.io/2019/08/23/nodejs-offline-deployment.html
+> Reference: <https://musma.github.io/2019/08/23/nodejs-offline-deployment.html>
 
 Before you download packages on offline,
 
@@ -47,6 +47,11 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 
 1. [axios](https://github.com/axios/axios)
 2. [socket.io](https://socket.io/docs/)
+3. [graphql](https://graphql.org/learn/)
+
+### Network Helper
+
+1. [jwt-decode](https://github.com/auth0/jwt-decode)
 
 ### React
 
@@ -79,3 +84,11 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 1. [ts-jest](https://kulshekhar.github.io/ts-jest/user/install)
 2. [tslint](https://palantir.github.io/tslint/)
 3. [Typescript](https://www.typescriptlang.org/docs/home.html)
+
+### Framework
+
+1. [Electron](https://www.electronjs.org/docs)
+
+### Validator
+
+1. [Yup](https://github.com/jquense/yup)
