@@ -107,6 +107,7 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 9. [nodemon](https://github.com/remy/nodemon#nodemon)
 10. [passport](https://github.com/jaredhanson/passport)
 11. [yenv](https://github.com/jeffijoe/yenv)
+12. [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
 
 ### ORM
 
