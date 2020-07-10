@@ -99,3 +99,16 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 2. [Moment.js](https://momentjs.com/docs/)
 3. [Yup](https://github.com/jquense/yup)
 4. [Prettier](https://prettier.io/)
+5. [Bcrypt](https://github.com/kelektiv/node.bcrypt.js)
+6. [http-status-codes](https://github.com/prettymuchbryce/http-status-codes)
+7. [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+8. [cross-env](https://github.com/kentcdodds/cross-env#readme)
+9. [nodemon](https://github.com/remy/nodemon#nodemon)
+10. [passport](https://github.com/jaredhanson/passport)
+11. [yenv](https://github.com/jeffijoe/yenv)
+
+### ORM
+
+1. [TypeORM](https://typeorm.io/#/)
+2. [Mongoose](https://mongoosejs.com/docs/guide.html)
+3. [Typegoose](https://github.com/typegoose/typegoose)
