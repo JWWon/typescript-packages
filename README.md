@@ -62,13 +62,17 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 
 ### React Helper
 
-1. [immer](https://immerjs.github.io/immer/docs/introduction)
-2. [react-dnd](https://react-dnd.github.io/react-dnd/about)
-3. [react-hook-form](https://react-hook-form.com/get-started)
-4. [react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog)
-5. [react-mosaic](https://github.com/nomcopter/react-mosaic)
-6. [styled-components](https://styled-components.com/)
-7. [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
+1. [Draft.js](https://draftjs.org/docs/getting-started)
+2. [immer](https://immerjs.github.io/immer/docs/introduction)
+3. [react-dnd](https://react-dnd.github.io/react-dnd/about)
+4. [react-dropzone](https://react-dropzone.js.org/)
+5. [react-grid-layout](https://github.com/STRML/react-grid-layout)
+6. [react-hook-form](https://react-hook-form.com/get-started)
+7. [react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog)
+8. [react-mosaic](https://github.com/nomcopter/react-mosaic)
+9. [react-table](https://react-table.tanstack.com/docs/overview)
+10. [styled-components](https://styled-components.com/)
+11. [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
 
 ### React Test
 
@@ -89,6 +93,8 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 
 1. [Electron](https://www.electronjs.org/docs)
 
-### Validator
+### Utility
 
-1. [Yup](https://github.com/jquense/yup)
+1. [Lodash](https://lodash.com/)
+2. [Moment.js](https://momentjs.com/docs/)
+3. [Yup](https://github.com/jquense/yup)
