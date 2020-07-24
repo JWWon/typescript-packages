@@ -1,5 +1,17 @@
 # Typescript Packagess
 
+## How to contribute
+
+1. Create branch after your issue number `<issue_number>-<branch_name>`
+
+2. Install all dependencies you need
+
+3. Update `Package List` on README.md
+
+4. Create merge request to `master` branch
+
+5. Project manager will review your updates and merge it
+
 ## How to use
 
 > Reference: <https://classic.yarnpkg.com/blog/2016/11/24/offline-mirror/>, <https://musma.github.io/2019/08/23/nodejs-offline-deployment.html>
