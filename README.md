@@ -85,6 +85,10 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 9. [react-table](https://react-table.tanstack.com/docs/overview)
 10. [styled-components](https://styled-components.com/)
 11. [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
+12. [craco](https://github.com/gsoft-inc/craco)
+13. [cross-env](https://github.com/kentcdodds/cross-env#readme)
+14. [react-app-rewired](https://github.com/timarney/react-app-rewired)
+15. [react-virtualized](https://github.com/bvaughn/react-virtualized)
 
 ### React Test
 
@@ -101,6 +105,7 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 1. [ts-jest](https://kulshekhar.github.io/ts-jest/user/install)
 2. [tslint](https://palantir.github.io/tslint/)
 3. [Typescript](https://www.typescriptlang.org/docs/home.html)
+4. [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)
 
 ### Framework
 
@@ -120,9 +125,18 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 10. [passport](https://github.com/jaredhanson/passport)
 11. [yenv](https://github.com/jeffijoe/yenv)
 12. [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
+13. [dotenv](https://github.com/motdotla/dotenv#readme)
+14. [joi](https://hapi.dev/module/joi/#install)
+15. [morgan](https://github.com/expressjs/morgan#readme)
+16. [nodemon](https://nodemon.io/)
+17. [multer](https://github.com/expressjs/multer)
 
 ### ORM
 
 1. [TypeORM](https://typeorm.io/#/)
 2. [Mongoose](https://mongoosejs.com/docs/guide.html)
 3. [Typegoose](https://github.com/typegoose/typegoose)
+
+### Terminal
+
+1. [Pure](https://github.com/sindresorhus/pure)
