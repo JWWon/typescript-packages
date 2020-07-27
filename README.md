@@ -110,6 +110,7 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 ### Framework
 
 1. [Electron](https://www.electronjs.org/docs)
+2. [MinIO](https://github.com/minio/minio-js)
 
 ### Utility
 
