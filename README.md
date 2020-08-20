@@ -89,6 +89,7 @@ To use `yarn`, you can use auto installer or `node ./yarn-1.22.4.js <command>`.
 13. [cross-env](https://github.com/kentcdodds/cross-env#readme)
 14. [react-app-rewired](https://github.com/timarney/react-app-rewired)
 15. [react-virtualized](https://github.com/bvaughn/react-virtualized)
+16. [redux-devtools](https://github.com/reduxjs/redux-devtools/blob/master/docs/Walkthrough.md#manual-integration)
 
 ### React Test
 
