@@ -1,7 +1,8 @@
 {
   "name": "react-packages",
-  "version": "0.1.0",
-  "main": "index.js",
+  "version": "3.0:2020.08.22",
+  "description": "오프라인 모드에서 사용하기 위한 타입스크립트 패키지 모음",
+  "author": "상병 원지운",
   "license": "MIT",
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
