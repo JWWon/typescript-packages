@@ -99,6 +99,7 @@
     "@storybook/react": "^5.3.19",
     "@types/bcrypt": "^3.0.0",
     "@types/bcryptjs": "^2.4.2",
+    "@types/crypto-js": "^3.1.47",
     "@types/draft-js": "^0.10.43",
     "@types/flat": "^5.0.1",
     "@types/jest": "^26.0.4",
