@@ -1,6 +1,6 @@
 {
   "name": "react-packages",
-  "version": "3.0:2020.08.22",
+  "version": "3.1:2020.08.28",
   "description": "오프라인 모드에서 사용하기 위한 타입스크립트 패키지 모음",
   "author": "상병 원지운",
   "license": "MIT",
@@ -100,6 +100,7 @@
     "swagger-ui-express": "^4.1.4",
     "typeorm": "^0.2.25",
     "typesafe-actions": "^5.1.0",
+    "uuid": "^8.3.0",
     "yenv": "^2.1.1",
     "yup": "^0.29.1"
   },
@@ -142,6 +143,7 @@
     "@types/swagger-jsdoc": "^3.0.2",
     "@types/swagger-ui-express": "^4.1.2",
     "@types/testing-library__dom": "^7.5.0",
+    "@types/uuid": "^8.3.0",
     "@types/yup": "^0.29.3",
     "@typescript-eslint/eslint-plugin": "^3.7.0",
     "@typescript-eslint/parser": "^3.7.0",
