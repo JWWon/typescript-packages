@@ -1668,6 +1668,11 @@
     "@opencensus/core" "^0.0.8"
     uuid "^3.2.1"
 
+"@phc/format@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@phc/format/-/format-1.0.0.tgz#b5627003b3216dc4362125b13f48a4daa76680e4"
+  integrity sha512-m7X9U6BG2+J+R1lSOdCiITLLrxm+cWlNI3HUFA92oLO77ObGNzaKdh8pMLqdZcshtkKuV84olNNXDfMc4FezBQ==
+
 "@pm2/agent-node@^1.1.10":
   version "1.1.10"
   resolved "https://registry.yarnpkg.com/@pm2/agent-node/-/agent-node-1.1.10.tgz#29fafc9d1b75288dec87b6af1216ddfab8ea9b06"
@@ -2578,6 +2583,11 @@
   integrity sha512-wSNdxcqse8pHdsIyZcSIbgqZq3qcgdLsvSzp1ZvuxzBb717s7/BvEORiRgkl9r/QDORpoaQGg9vsl387tVtjIA==
   dependencies:
     "@types/node" "*"
+
+"@types/module-alias@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/module-alias/-/module-alias-2.0.0.tgz#882668f8b8cdbda44812c3b592c590909e18849e"
+  integrity sha512-e3sW4oEH0qS1QxSfX7PT6xIi5qk/YSMsrB9Lq8EtkhQBZB+bKyfkP+jpLJRySanvBhAQPSv2PEBe81M8Iy/7yg==
 
 "@types/mongodb@*":
   version "3.5.26"
@@ -3522,6 +3532,16 @@ are-we-there-yet@~1.1.2:
   dependencies:
     delegates "^1.0.0"
     readable-stream "^2.0.6"
+
+argon2@^0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/argon2/-/argon2-0.27.0.tgz#0e92acfab23041544208d184acf8c3ca61a67e3f"
+  integrity sha512-IkhJhz/4qaZ6RpYyRZvAMOu+EysF40z3J8jksvv0V9LvQFo13d2WBQr5lPuMzZid2k5XpdbQd2oVsgXR4Oi8TQ==
+  dependencies:
+    "@phc/format" "^1.0.0"
+    node-addon-api "^3.0.0"
+    node-pre-gyp "^0.15.0"
+    opencollective-postinstall "^2.0.3"
 
 argparse@^1.0.7:
   version "1.0.10"
@@ -7306,6 +7326,11 @@ flat@^5.0.0:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/flat/-/flat-5.0.2.tgz#8ca6fe332069ffa9d324c327198c598259ceb241"
   integrity sha512-b6suED+5/3rTpUBdG1gupIl8MPFCAMA0QXwmljLhvCUKcUvdE4gWky9zpuGCcXHOsz4J9wPGNWq6OKpmIzz3hQ==
+
+flexlayout-react@^0.4.7:
+  version "0.4.7"
+  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.4.7.tgz#69f431d2eb8ddce206a2dbd0ee6a1aff9a4657c8"
+  integrity sha512-iauQr6qihNUO34KF+9qTHnicDJrJy4DH3jY1kTpBC01XFdhhU7+61kTorQuPIZXNVgSyv2pCyCiuyi+YubbngQ==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
@@ -11184,7 +11209,7 @@ node-notifier@^8.0.0:
     uuid "^8.3.0"
     which "^2.0.2"
 
-node-pre-gyp@0.15.0:
+node-pre-gyp@0.15.0, node-pre-gyp@^0.15.0:
   version "0.15.0"
   resolved "https://registry.yarnpkg.com/node-pre-gyp/-/node-pre-gyp-0.15.0.tgz#c2fc383276b74c7ffa842925241553e8b40f1087"
   integrity sha512-7QcZa8/fpaU/BKenjcaeFF9hLz2+7S9AqyXFhlH/rilsQ/hPZKK32RtR5EQHJElgu+q5RfbJ34KriI79UWaorA==
@@ -11770,7 +11795,7 @@ openapi-types@^1.3.5:
   resolved "https://registry.yarnpkg.com/openapi-types/-/openapi-types-1.3.5.tgz#6718cfbc857fe6c6f1471f65b32bdebb9c10ce40"
   integrity sha512-11oi4zYorsgvg5yBarZplAqbpev5HkuVNPlZaPTknPDzAynq+lnJdXAmruGWP0s+dNYZS7bjM+xrTpJw7184Fg==
 
-opencollective-postinstall@^2.0.2:
+opencollective-postinstall@^2.0.2, opencollective-postinstall@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.3.tgz#7a0fff978f6dbfa4d006238fbac98ed4198c3259"
   integrity sha512-8AV/sCtuzUeTo8gQK5qDZzARrulB3egtLzFgteqB2tcT4Mw7B8Kt7JcDHmltjz6FOAHsvTevk70gZEbhM4ZS9Q==
@@ -13430,6 +13455,11 @@ react-clientside-effect@^1.2.2:
   dependencies:
     "@babel/runtime" "^7.0.0"
 
+react-datasheet@^1.4.8:
+  version "1.4.8"
+  resolved "https://registry.yarnpkg.com/react-datasheet/-/react-datasheet-1.4.8.tgz#ce83e62963febce5c7f4efb0aaea50896d4e42db"
+  integrity sha512-ohgGD1uLcJKTzeyubWi1s8VdwjNfBxpAz1x/N+io+6XQB1AIzipW5gXlDTpC7AbSUWRiJPzc4ytd20gU6xAoHw==
+
 react-dev-utils@^9.0.0:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-9.1.0.tgz#3ad2bb8848a32319d760d0a84c56c14bdaae5e81"
@@ -14047,6 +14077,33 @@ redeyed@~2.1.0:
   integrity sha1-iYS1gV2ZyyIEacme7v/jiRPmzAs=
   dependencies:
     esprima "~4.0.0"
+
+redis-commands@^1.5.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/redis-commands/-/redis-commands-1.6.0.tgz#36d4ca42ae9ed29815cdb30ad9f97982eba1ce23"
+  integrity sha512-2jnZ0IkjZxvguITjFTrGiLyzQZcTvaw8DAaCXxZq/dsHXz7KfMQ3OUJy7Tz9vnRtZRVz6VRCPDvruvU8Ts44wQ==
+
+redis-errors@^1.0.0, redis-errors@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/redis-errors/-/redis-errors-1.2.0.tgz#eb62d2adb15e4eaf4610c04afe1529384250abad"
+  integrity sha1-62LSrbFeTq9GEMBK/hUpOEJQq60=
+
+redis-parser@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/redis-parser/-/redis-parser-3.0.0.tgz#b66d828cdcafe6b4b8a428a7def4c6bcac31c8b4"
+  integrity sha1-tm2CjNyv5rS4pCin3vTGvKwxyLQ=
+  dependencies:
+    redis-errors "^1.0.0"
+
+redis@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/redis/-/redis-3.0.2.tgz#bd47067b8a4a3e6a2e556e57f71cc82c7360150a"
+  integrity sha512-PNhLCrjU6vKVuMOyFu7oSP296mwBkcE6lrAjruBYG5LgdSqtRBoVQIylrMyVZD/lkF24RSNNatzvYag6HRBHjQ==
+  dependencies:
+    denque "^1.4.1"
+    redis-commands "^1.5.0"
+    redis-errors "^1.2.0"
+    redis-parser "^3.0.0"
 
 redux-devtools-dock-monitor@^1.1.4:
   version "1.1.4"
