@@ -1,6 +1,6 @@
 {
   "name": "react-packages",
-  "version": "4.1:2020.09.04",
+  "version": "4.2:2020.09.13",
   "description": "오프라인 모드에서 사용하기 위한 타입스크립트 패키지 모음",
   "author": "상병 원지운",
   "license": "MIT",
