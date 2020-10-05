@@ -2610,6 +2610,13 @@
   resolved "https://registry.yarnpkg.com/@types/html-minifier-terser/-/html-minifier-terser-5.1.0.tgz#551a4589b6ee2cc9c1dff08056128aec29b94880"
   integrity sha512-iYCgjm1dGPRuo12+BStjd1HiVQqhlRhWDOQigNxn023HcjnhsiFz9pc6CzJj4HwDCSQca9bxTL4PxJDbkdm3PA==
 
+"@types/iconv@^2.1.16":
+  version "2.1.16"
+  resolved "https://registry.yarnpkg.com/@types/iconv/-/iconv-2.1.16.tgz#2b266c2e4c5425981e8ee1479bcb673b285ec88d"
+  integrity sha512-/O0bXwCim+hku9l6fjzG4lHj/wqRMJy0lpq4dd9/DeN8b9nDzaqzCb0mo7WoRm/CvJk1DTJ9F266UHqwvOzf1g==
+  dependencies:
+    "@types/node" "*"
+
 "@types/is-function@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@types/is-function/-/is-function-1.0.0.tgz#1b0b819b1636c7baf0d6785d030d12edf70c3e83"
@@ -2973,7 +2980,14 @@
   resolved "https://registry.yarnpkg.com/@types/socket.io-client/-/socket.io-client-1.4.33.tgz#8e705b9b3f7fba6cb329d27cd2eda222812adbf1"
   integrity sha512-m4LnxkljsI9fMsjwpW5QhRpMixo2BeeLpFmg0AE+sS4H1pzAd/cs/ftTiL60FLZgfFa8PFRPx5KsHu8O0bADKQ==
 
-"@types/socket.io@^2.1.8":
+"@types/socket.io-redis@^1.0.26":
+  version "1.0.26"
+  resolved "https://registry.yarnpkg.com/@types/socket.io-redis/-/socket.io-redis-1.0.26.tgz#5cd3fd841c63c905df04bbd11d28d8f532529be4"
+  integrity sha512-RBNSxU1oftdazoIwv34DgEXE36F+46RgaKNS0GchkYpkb3dU+zCW+un5iqHAM2NO8reTz4pl/Qce2ZD0w1fLZQ==
+  dependencies:
+    "@types/socket.io" "*"
+
+"@types/socket.io@*", "@types/socket.io@^2.1.8":
   version "2.1.11"
   resolved "https://registry.yarnpkg.com/@types/socket.io/-/socket.io-2.1.11.tgz#e0d6759880e5f9818d5297a3328b36641bae996b"
   integrity sha512-bVprmqPhJMLb9ZCm8g0Xy8kwBFRbnanOWSxzWkDkkIwxTvud5tKMfAJymXX6LQbizUKCS1yima7JM4BeLqjNqA==
@@ -8654,6 +8668,11 @@ iconv-lite@^0.6.2:
   integrity sha512-2y91h5OpQlolefMPmUlivelittSWy0rP+oYVpn6A7GwVHNE8AWzoYOBNmlwks3LobaJxgHCYZAnyNo2GgpNRNQ==
   dependencies:
     safer-buffer ">= 2.1.2 < 3.0.0"
+
+iconv@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/iconv/-/iconv-3.0.0.tgz#9a293ec123b16b4717e450714ddbb07f985b7d9c"
+  integrity sha512-bKTEP55J/e+UutBE3BDBWq6KukPWh3GBYCZGbLEY9vxRDUU2F3bqvPsp/a/DEdIamgF2MvW5lF0Rj1U/7KRL+g==
 
 icss-utils@^4.0.0, icss-utils@^4.1.1:
   version "4.1.1"
